@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ### My Badge
-![alt text]([http://url/to/img.png](https://www.credly.com/badges/d6456874-f0af-4253-be97-99c06611c782/public_url))
+![alt text](https://images.credly.com/size/680x680/images/6a3afb4b-84a8-4d9a-9058-849c140fc271/image.png)
 
