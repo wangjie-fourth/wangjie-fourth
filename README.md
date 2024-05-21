@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Badge
+https://www.credly.com/badges/d6456874-f0af-4253-be97-99c06611c782/public_url
