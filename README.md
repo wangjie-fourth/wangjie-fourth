@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ### My Badge
-https://www.credly.com/badges/d6456874-f0af-4253-be97-99c06611c782/public_url
+![alt text]([http://url/to/img.png](https://www.credly.com/badges/d6456874-f0af-4253-be97-99c06611c782/public_url))
+
